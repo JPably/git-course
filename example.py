@@ -1,5 +1,5 @@
 print("Hello git")
-print("This is a test")
+print("Main branch")
 
 a = 2
 b = 3
